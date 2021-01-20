@@ -1,0 +1,4142 @@
+fileFormatVersion: 2
+guid: 00a342e41a5f3b04db41c060c31575bf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Paralax1_Night_SpriteSheet_0
+    21300002: Paralax1_Night_SpriteSheet_1
+    21300004: Paralax1_Night_SpriteSheet_2
+    21300006: Paralax1_Night_SpriteSheet_3
+    21300008: Paralax1_Night_SpriteSheet_4
+    21300010: Paralax1_Night_SpriteSheet_5
+    21300012: Paralax1_Night_SpriteSheet_6
+    21300014: Paralax1_Night_SpriteSheet_7
+    21300016: Paralax1_Night_SpriteSheet_8
+    21300018: Paralax1_Night_SpriteSheet_9
+    21300020: Paralax1_Night_SpriteSheet_10
+    21300022: Paralax1_Night_SpriteSheet_11
+    21300024: Paralax1_Night_SpriteSheet_12
+    21300026: Paralax1_Night_SpriteSheet_13
+    21300028: Paralax1_Night_SpriteSheet_14
+    21300030: Paralax1_Night_SpriteSheet_15
+    21300032: Paralax1_Night_SpriteSheet_16
+    21300034: Paralax1_Night_SpriteSheet_17
+    21300036: Paralax1_Night_SpriteSheet_18
+    21300038: Paralax1_Night_SpriteSheet_19
+    21300040: Paralax1_Night_SpriteSheet_20
+    21300042: Paralax1_Night_SpriteSheet_21
+    21300044: Paralax1_Night_SpriteSheet_22
+    21300046: Paralax1_Night_SpriteSheet_23
+    21300048: Paralax1_Night_SpriteSheet_24
+    21300050: Paralax1_Night_SpriteSheet_25
+    21300052: Paralax1_Night_SpriteSheet_26
+    21300054: Paralax1_Night_SpriteSheet_27
+    21300056: Paralax1_Night_SpriteSheet_28
+    21300058: Paralax1_Night_SpriteSheet_29
+    21300060: Paralax1_Night_SpriteSheet_30
+    21300062: Paralax1_Night_SpriteSheet_31
+    21300064: Paralax1_Night_SpriteSheet_32
+    21300066: Paralax1_Night_SpriteSheet_33
+    21300068: Paralax1_Night_SpriteSheet_34
+    21300070: Paralax1_Night_SpriteSheet_35
+    21300072: Paralax1_Night_SpriteSheet_36
+    21300074: Paralax1_Night_SpriteSheet_37
+    21300076: Paralax1_Night_SpriteSheet_38
+    21300078: Paralax1_Night_SpriteSheet_39
+    21300080: Paralax1_Night_SpriteSheet_40
+    21300082: Paralax1_Night_SpriteSheet_41
+    21300084: Paralax1_Night_SpriteSheet_42
+    21300086: Paralax1_Night_SpriteSheet_43
+    21300088: Paralax1_Night_SpriteSheet_44
+    21300090: Paralax1_Night_SpriteSheet_45
+    21300092: Paralax1_Night_SpriteSheet_46
+    21300094: Paralax1_Night_SpriteSheet_47
+    21300096: Paralax1_Night_SpriteSheet_48
+    21300098: Paralax1_Night_SpriteSheet_49
+    21300100: Paralax1_Night_SpriteSheet_50
+    21300102: Paralax1_Night_SpriteSheet_51
+    21300104: Paralax1_Night_SpriteSheet_52
+    21300106: Paralax1_Night_SpriteSheet_53
+    21300108: Paralax1_Night_SpriteSheet_54
+    21300110: Paralax1_Night_SpriteSheet_55
+    21300112: Paralax1_Night_SpriteSheet_56
+    21300114: Paralax1_Night_SpriteSheet_57
+    21300116: Paralax1_Night_SpriteSheet_58
+    21300118: Paralax1_Night_SpriteSheet_59
+    21300120: Paralax1_Night_SpriteSheet_60
+    21300122: Paralax1_Night_SpriteSheet_61
+    21300124: Paralax1_Night_SpriteSheet_62
+    21300126: Paralax1_Night_SpriteSheet_63
+    21300128: Paralax1_Night_SpriteSheet_64
+    21300130: Paralax1_Night_SpriteSheet_65
+    21300132: Paralax1_Night_SpriteSheet_66
+    21300134: Paralax1_Night_SpriteSheet_67
+    21300136: Paralax1_Night_SpriteSheet_68
+    21300138: Paralax1_Night_SpriteSheet_69
+    21300140: Paralax1_Night_SpriteSheet_70
+    21300142: Paralax1_Night_SpriteSheet_71
+    21300144: Paralax1_Night_SpriteSheet_72
+    21300146: Paralax1_Night_SpriteSheet_73
+    21300148: Paralax1_Night_SpriteSheet_74
+    21300150: Paralax1_Night_SpriteSheet_75
+    21300152: Paralax1_Night_SpriteSheet_76
+    21300154: Paralax1_Night_SpriteSheet_77
+    21300156: Paralax1_Night_SpriteSheet_78
+    21300158: Paralax1_Night_SpriteSheet_79
+    21300160: Paralax1_Night_SpriteSheet_80
+    21300162: Paralax1_Night_SpriteSheet_81
+    21300164: Paralax1_Night_SpriteSheet_82
+    21300166: Paralax1_Night_SpriteSheet_83
+    21300168: Paralax1_Night_SpriteSheet_84
+    21300170: Paralax1_Night_SpriteSheet_85
+    21300172: Paralax1_Night_SpriteSheet_86
+    21300174: Paralax1_Night_SpriteSheet_87
+    21300176: Paralax1_Night_SpriteSheet_88
+    21300178: Paralax1_Night_SpriteSheet_89
+    21300180: Paralax1_Night_SpriteSheet_90
+    21300182: Paralax1_Night_SpriteSheet_91
+    21300184: Paralax1_Night_SpriteSheet_92
+    21300186: Paralax1_Night_SpriteSheet_93
+    21300188: Paralax1_Night_SpriteSheet_94
+    21300190: Paralax1_Night_SpriteSheet_95
+    21300192: Paralax1_Night_SpriteSheet_96
+    21300194: Paralax1_Night_SpriteSheet_97
+    21300196: Paralax1_Night_SpriteSheet_98
+    21300198: Paralax1_Night_SpriteSheet_99
+    21300200: Paralax1_Night_SpriteSheet_100
+    21300202: Paralax1_Night_SpriteSheet_101
+    21300204: Paralax1_Night_SpriteSheet_102
+    21300206: Paralax1_Night_SpriteSheet_103
+    21300208: Paralax1_Night_SpriteSheet_104
+    21300210: Paralax1_Night_SpriteSheet_105
+    21300212: Paralax1_Night_SpriteSheet_106
+    21300214: Paralax1_Night_SpriteSheet_107
+    21300216: Paralax1_Night_SpriteSheet_108
+    21300218: Paralax1_Night_SpriteSheet_109
+    21300220: Paralax1_Night_SpriteSheet_110
+    21300222: Paralax1_Night_SpriteSheet_111
+    21300224: Paralax1_Night_SpriteSheet_112
+    21300226: Paralax1_Night_SpriteSheet_113
+    21300228: Paralax1_Night_SpriteSheet_114
+    21300230: Paralax1_Night_SpriteSheet_115
+    21300232: Paralax1_Night_SpriteSheet_116
+    21300234: Paralax1_Night_SpriteSheet_117
+    21300236: Paralax1_Night_SpriteSheet_118
+    21300238: Paralax1_Night_SpriteSheet_119
+    21300240: Paralax1_Night_SpriteSheet_120
+    21300242: Paralax1_Night_SpriteSheet_121
+    21300244: Paralax1_Night_SpriteSheet_122
+    21300246: Paralax1_Night_SpriteSheet_123
+    21300248: Paralax1_Night_SpriteSheet_124
+    21300250: Paralax1_Night_SpriteSheet_125
+    21300252: Paralax1_Night_SpriteSheet_126
+    21300254: Paralax1_Night_SpriteSheet_127
+    21300256: Paralax1_Night_SpriteSheet_128
+    21300258: Paralax1_Night_SpriteSheet_129
+    21300260: Paralax1_Night_SpriteSheet_130
+    21300262: Paralax1_Night_SpriteSheet_131
+    21300264: Paralax1_Night_SpriteSheet_132
+    21300266: Paralax1_Night_SpriteSheet_133
+    21300268: Paralax1_Night_SpriteSheet_134
+    21300270: Paralax1_Night_SpriteSheet_135
+    21300272: Paralax1_Night_SpriteSheet_136
+    21300274: Paralax1_Night_SpriteSheet_137
+    21300276: Paralax1_Night_SpriteSheet_138
+    21300278: Paralax1_Night_SpriteSheet_139
+    21300280: Paralax1_Night_SpriteSheet_140
+    21300282: Paralax1_Night_SpriteSheet_141
+    21300284: Paralax1_Night_SpriteSheet_142
+    21300286: Paralax1_Night_SpriteSheet_143
+    21300288: Paralax1_Night_SpriteSheet_144
+    21300290: Paralax1_Night_SpriteSheet_145
+    21300292: Paralax1_Night_SpriteSheet_146
+    21300294: Paralax1_Night_SpriteSheet_147
+    21300296: Paralax1_Night_SpriteSheet_148
+    21300298: Paralax1_Night_SpriteSheet_149
+    21300300: Paralax1_Night_SpriteSheet_150
+    21300302: Paralax1_Night_SpriteSheet_151
+    21300304: Paralax1_Night_SpriteSheet_152
+    21300306: Paralax1_Night_SpriteSheet_153
+    21300308: Paralax1_Night_SpriteSheet_154
+    21300310: Paralax1_Night_SpriteSheet_155
+    21300312: Paralax1_Night_SpriteSheet_156
+    21300314: Paralax1_Night_SpriteSheet_157
+    21300316: Paralax1_Night_SpriteSheet_158
+    21300318: Paralax1_Night_SpriteSheet_159
+    21300320: Paralax1_Night_SpriteSheet_160
+    21300322: Paralax1_Night_SpriteSheet_161
+    21300324: Paralax1_Night_SpriteSheet_162
+    21300326: Paralax1_Night_SpriteSheet_163
+    21300328: Paralax1_Night_SpriteSheet_164
+    21300330: Paralax1_Night_SpriteSheet_165
+    21300332: Paralax1_Night_SpriteSheet_166
+    21300334: Paralax1_Night_SpriteSheet_167
+    21300336: Paralax1_Night_SpriteSheet_168
+    21300338: Paralax1_Night_SpriteSheet_169
+    21300340: Paralax1_Night_SpriteSheet_170
+    21300342: Paralax1_Night_SpriteSheet_171
+    21300344: Paralax1_Night_SpriteSheet_172
+    21300346: Paralax1_Night_SpriteSheet_173
+    21300348: Paralax1_Night_SpriteSheet_174
+    21300350: Paralax1_Night_SpriteSheet_175
+    21300352: Paralax1_Night_SpriteSheet_176
+    21300354: Paralax1_Night_SpriteSheet_177
+    21300356: Paralax1_Night_SpriteSheet_178
+    21300358: Paralax1_Night_SpriteSheet_179
+    21300360: Paralax1_Night_SpriteSheet_180
+    21300362: Paralax1_Night_SpriteSheet_181
+    21300364: Paralax1_Night_SpriteSheet_182
+    21300366: Paralax1_Night_SpriteSheet_183
+    21300368: Paralax1_Night_SpriteSheet_184
+    21300370: Paralax1_Night_SpriteSheet_185
+    21300372: Paralax1_Night_SpriteSheet_186
+    21300374: Paralax1_Night_SpriteSheet_187
+    21300376: Paralax1_Night_SpriteSheet_188
+    21300378: Paralax1_Night_SpriteSheet_189
+    21300380: Paralax1_Night_SpriteSheet_190
+    21300382: Paralax1_Night_SpriteSheet_191
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898956fe739c544bab4e1210b6d2698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 12400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf97a850f803464dac92fd368eb5a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 12400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7c0509b4d68bc488a5b78d64c5c89a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 12400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14465ff0955c9854abc97b0dd1d9dd5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 12400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee142d76fa08842948c50dcbd0586a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 12400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dfc8f280f7485489ae7b8035edd0e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54030786dca6b44294ae3df6451bec8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 12000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c658ca306bcf60f41ad7ca10a7314742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 12000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7eb73cc9feb194bbca63455cb4ff9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 12000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ffc27bfe89e14080d1bbb1a7b6263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 12000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d240c1bc75f29cc43b510858aed3dd80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 12000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695a6ee4e2627774f97b4c619bed3f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aa3f32860b4504cbd86ac17f1dd976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 11600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d32d96d682f124b96584d7fc44f69c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 11600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e48eb6d8747bd64085a5530790a0803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 11600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157e7209b4f20ba4cbabc146fed7f943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 11600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d451b3339be6d46a7d619255553c18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 11600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec96a094e90e954d8a9b8af99ea3c1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b354e667c1bc64aa8270d435250b1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 11200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc98c987562ae534b80715fcede82b8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 11200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8106abfb54eef334bb4e7d680c816fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 11200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4ce71cfacfef74cb8227dbc53bfe97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 11200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b5ea85cb567914981d9a26045ce7a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 11200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a6ecfa738f4bf4baae9c8d0f5294d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cea571bbb22e3f4c949680031bbe38a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 10800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5982de901d062c4abb02e8aceaaf8fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 10800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1124f94acb25284468fe3df9e8a78618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 10800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e479b2acb12fe3438956266d078f352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 10800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec4c875b151a2341b0bf3a73eb14d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 10800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb69c390bc4011549bb3473c1400ec7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d49209cf469f44299457ab2e2d8013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 10400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5b45ffbf44a994c9e2c75f4d3a6ad7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 10400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6f7b1f093aada42b55e7ec75b4f148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 10400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b260726cb9e77644b408ad9665e4088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 10400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb7b4137c4fdcc4a840484d4f58cd58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 10400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1024f655afeeaca4c8f1644a2dfb95b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0340694eaa967458c46abf39f97bd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 10000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d68ac72f1d28c549a3c4f6e9ebac9d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 10000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb0f6ac8ce50fc478eace2081b101d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 10000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ce2635b58e0314fbe265c532d03219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 10000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7ef248469f1b148a1a0a13e997ac9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 10000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfee49828b42c446832d8fd85f7aafb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2aa12087205b04fad98d20a74e1284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 9600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8d915d32e76cf46a36dac8d33aef2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 9600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d736eb2a903d3d949ac16baea1b2b9fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 9600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32296977145b5fb4294897a94cac0c02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 9600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab932b9cdcc3a45b3d4c3602c77b16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 9600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25ca15703049e447a23d2ba10e52e80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c5a89774e7f34f80390af4e18d6d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 9200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316338c875f5af14dbf12c039f03233b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 9200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f31e35131054d45991fb81c1761378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 9200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1296a38725d159f409f09c833c5ff2a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 9200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a4fbec6e9f8f9408e8788331e1bc01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 9200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e193bc662c284b42a199c11cecd2183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911f44cc1290a124dbbaeba2570e452d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 8800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaed5a5f8dc9d94e99a9dc83e61cd1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 8800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d1315007708ce41a49d1c185d0e9e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 8800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35eb570fcebaf344abe43aeb8d48d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 8800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f5548622923cf42a603c0b9cc0c30b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 8800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dadf392148dd2e48a023ec234ca5629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5b36c261075724990ce2861b88da76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 8400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2077b2e1e3824d240a5cdeaf22cc266c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 8400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b836fea2a9a03944c9bd330f8c2b846b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 8400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26a574e0e394064ab7d88a546ba2985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 8400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2645d563d0bf0a446a5def0e6b24815c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 8400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dab034f6ffd5cc4889cf365cafb2cac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7f15b37fcfd38419cd60f0701cbb77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 8000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7621650f4b3a84889b565d88465fdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 8000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d297bd633ab554da24c19d9e38a9b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 8000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d157d7eb37839469ddee784bc51454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 8000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7283db9d6de004189fb69dea79422a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 8000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e34ab540804d6949acb230f80e6eaff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b039e0b0a7c2124f897d3c259bb6471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 7600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b7f42f14d3f814c816073bc0cc8a79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 7600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e403a7a23784341a961694a7d48ba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 7600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8790fe82c1d1f49a3389d2a58a1e7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 7600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566b2e66f9a68f94daa1aa89437336b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 7600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a27465b1acf3d7449e9853ac63f8dc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e515952ea3817c4f881baab41df5d9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 7200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf3f8fac6a948d41a127246ad14abf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 7200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec282349b4d69842a3223b99c097254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 7200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3483f5f0f8b1b4abc51240bfc8eca8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 7200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ccfcdf95180ed40917e430e6ba33a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 7200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02128626c3d5ed34898135e7d49a75b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b607a2cae5e279b46aca16bede2f8919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 6800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b2829f1fad22040825934a1f5c4d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296d4f4a360610549b3fa2cb342125a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 6800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20de7e27ac33b0649aa7e792dd1d0e46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ffecfbea8d7804cb36d90eb1d1a5d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 6800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ee7d5239e1eb34fa476740f0fc8069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c26ed112db6394198baa1d3eaf4257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 6400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749c06483372d5746b03dd294d89b2ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c46b25a00ec12c4680c30d6f066ee24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 6400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8f0cd1f5643a148b1b6258a3a09c42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c413b4c12e0bf3c4988f4cdb52b9ac1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 6400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc61f731c1462ee43abc0a50e1049294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8de53171bb5924ea7235ce61c2a22f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 6000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff43f38600038b4fb32bb42a7aff5d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470ae109c2f00b44e9b352f0a846a282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 6000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b452a6796f7e31048a1edc35f80b2aa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b06cf2eee674bf4e9e984208b2c9af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 6000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c032c1d1dee7143a60aae782ca4acb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb618eff9e9b954ba2a2d891e9b8bd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 5600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546d739d7b79ad143b1d439e0f40a6ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 5600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b8c5b2c7bd9124c8aa0f27e320e46c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 5600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fc556601c0e504c8d7b45a30331380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 5600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef7aa95c57281941a995c5ece83c280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 5600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b70f38cc743e45a43cd9e2848db6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f155e033f236285409a46ba2c0130f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 5200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ab51ddf2e13d04696cbe421a5b35c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 5200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde5e5a09d3f7754f86b9de4e6fa58df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 5200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc69ba985c5d0ce4da0a810326a89623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 5200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381fa784143e7d44eb68f0d6c6869346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 5200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e37790b3ac6c7c438bfdb66cf977084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eb2cd06ab46a04bb82c482c556fbfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f08d1a93306e154494d81ab4704eccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfe4bff3e20ac343bfe479d5ad4eaa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 4800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263822ad5788f944a9727ccc9eb94fa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca4984683801ed44a537b25df3c3d1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 4800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09148ecb98758a84c9abe442029bcd5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894165f352451c94b9f494d224c5d928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3842b84a102c120419761fd32ec469bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859403fd8542ab54aa45d740c2e34d8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 4400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634ffb0dceacb2d4f967375778a061bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e601df257679f74faa6a6f28301c156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 4400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec516fdc71cf5e64095e5c93b3c42710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321082eec225c084598d791772c58362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62472c5231186349a91b4ffc4880318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f6ff8bf87f01749b5f9edd2afde9d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 4000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7cc8d3f1d763f42b39e62e18fb7a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b7dc8736577d4449849a93bf44d944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 4000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aad3c56d1a08a44b61796f4bb3d5ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91005f36644a6754d8842046a816279a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9809184af14bf46bc5fcb8eccdedcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d247ce7f0103b4cb2260ccedf4c024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 3600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac421f9c025dda43b52cfff2cac58d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3b7cc8cd8b98f4f9937b298c0ea78c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 3600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce04dfc2cc64c3419e7b9e0fc274c8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81958d8c843871b428185725a87707a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d0c4aaee4a0d241a536ec013304bf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df14f5b1cc7f68e4c88d774dabb56aae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 3200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127d70ca29039e347987c2c1fe0cf43e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ba5e0cb6f67a149a0337d9e0e9453b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 3200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa4c23d04d6a1f469715b0f1fb04072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d63e860567f145ad74f3c7dbb1453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2c5de65deb9624d995b387b2b5d2dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a6e0d560b2c5d4e84a4679516fc2c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428368601555a8f4da8607f6e56ec03b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d1e23638a5f024aa34c4111ab0ae71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520b95f0d2c9bc84b95bbbe3f15fd11e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba297181fb58ed438652a3bf6f1336d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6152069ff0f1949835303bcead5987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07cecabae209fe498eed7a33ae8bf89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74486d1259eb6e4581dd150c26c56cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bd416b1e563ff469e1530fb2f10413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fbbec1637c0d24681920948cd4f4ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0dc82f4ed141440bb876771ef03ee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70a682384990d54081d0c2c3fc3c8d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161d3ad33e35d8944b6b7816e8447698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe58675440d65e42873f8f064a0729e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b80b3e2826cb49ba835868f8a24ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d6c0cc6616cad41adda0afcb3f00f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11f9a4d8888ffe4cafa35f0ad50c99a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1faad270dc5584f9322ba6c18dc6f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2551d6e5c9956140b0705128cda98a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e248653627687ca42a500ac56f76c296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4cfb37932761543b0471c03e20c6b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fec8bb62cd1d74e98982048a9c5e78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ef8e65a69d94f46addb0e458ee8052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234f2fc7a4003004fab887e74b40e3dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b544b757fc1834b8f44486e0e575bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ccef137ad209348ac4043ab61ccbf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f989a7fea6f36d448b03fa088f56089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fc1aebfde9da746a3aa214e1dc4056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985d7efa9c3f8a64aaad8153c1fb4ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63952872e1014c47919b1e6f470f531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19099ae41c99398408ea771fd17392a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86198f4a2e3bce42b5c145ef0f8bf13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1751762533639ee4891ab21a822d1466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4096084acf4014a8bac7d9a0c73076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f8e87761574e4d8ce41e9db593119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74609b98b1b0394a97a5069e091674d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4f78b2491dc5644b2578923bd38125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e875b49f9cee32b4299b5e07adeef02f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befe95ea36944314f9702d29cbf5026e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4d1b8dc5384374ca4834d6c6fa7839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0748d3dd4e838e846aeb667ce974df6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2168dda5c625e7842bc93327a5b43f85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6903aeac590d9e84992ba8bfe034ad1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0a641910ae3e4cb1ff9abdab3a797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f585d5f68241d4d835a5024a4a9390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax1_Night_SpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 0
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db26f2b83fd015498b353468ca52cc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3a1aa2b31cd812545b4be5ecc963d0b4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

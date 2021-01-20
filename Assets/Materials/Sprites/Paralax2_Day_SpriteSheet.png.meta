@@ -1,0 +1,4142 @@
+fileFormatVersion: 2
+guid: 2b1190a5aa96aa24da22b1ac913662df
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Paralax2_Day_SpriteSheet_0
+    21300002: Paralax2_Day_SpriteSheet_1
+    21300004: Paralax2_Day_SpriteSheet_2
+    21300006: Paralax2_Day_SpriteSheet_3
+    21300008: Paralax2_Day_SpriteSheet_4
+    21300010: Paralax2_Day_SpriteSheet_5
+    21300012: Paralax2_Day_SpriteSheet_6
+    21300014: Paralax2_Day_SpriteSheet_7
+    21300016: Paralax2_Day_SpriteSheet_8
+    21300018: Paralax2_Day_SpriteSheet_9
+    21300020: Paralax2_Day_SpriteSheet_10
+    21300022: Paralax2_Day_SpriteSheet_11
+    21300024: Paralax2_Day_SpriteSheet_12
+    21300026: Paralax2_Day_SpriteSheet_13
+    21300028: Paralax2_Day_SpriteSheet_14
+    21300030: Paralax2_Day_SpriteSheet_15
+    21300032: Paralax2_Day_SpriteSheet_16
+    21300034: Paralax2_Day_SpriteSheet_17
+    21300036: Paralax2_Day_SpriteSheet_18
+    21300038: Paralax2_Day_SpriteSheet_19
+    21300040: Paralax2_Day_SpriteSheet_20
+    21300042: Paralax2_Day_SpriteSheet_21
+    21300044: Paralax2_Day_SpriteSheet_22
+    21300046: Paralax2_Day_SpriteSheet_23
+    21300048: Paralax2_Day_SpriteSheet_24
+    21300050: Paralax2_Day_SpriteSheet_25
+    21300052: Paralax2_Day_SpriteSheet_26
+    21300054: Paralax2_Day_SpriteSheet_27
+    21300056: Paralax2_Day_SpriteSheet_28
+    21300058: Paralax2_Day_SpriteSheet_29
+    21300060: Paralax2_Day_SpriteSheet_30
+    21300062: Paralax2_Day_SpriteSheet_31
+    21300064: Paralax2_Day_SpriteSheet_32
+    21300066: Paralax2_Day_SpriteSheet_33
+    21300068: Paralax2_Day_SpriteSheet_34
+    21300070: Paralax2_Day_SpriteSheet_35
+    21300072: Paralax2_Day_SpriteSheet_36
+    21300074: Paralax2_Day_SpriteSheet_37
+    21300076: Paralax2_Day_SpriteSheet_38
+    21300078: Paralax2_Day_SpriteSheet_39
+    21300080: Paralax2_Day_SpriteSheet_40
+    21300082: Paralax2_Day_SpriteSheet_41
+    21300084: Paralax2_Day_SpriteSheet_42
+    21300086: Paralax2_Day_SpriteSheet_43
+    21300088: Paralax2_Day_SpriteSheet_44
+    21300090: Paralax2_Day_SpriteSheet_45
+    21300092: Paralax2_Day_SpriteSheet_46
+    21300094: Paralax2_Day_SpriteSheet_47
+    21300096: Paralax2_Day_SpriteSheet_48
+    21300098: Paralax2_Day_SpriteSheet_49
+    21300100: Paralax2_Day_SpriteSheet_50
+    21300102: Paralax2_Day_SpriteSheet_51
+    21300104: Paralax2_Day_SpriteSheet_52
+    21300106: Paralax2_Day_SpriteSheet_53
+    21300108: Paralax2_Day_SpriteSheet_54
+    21300110: Paralax2_Day_SpriteSheet_55
+    21300112: Paralax2_Day_SpriteSheet_56
+    21300114: Paralax2_Day_SpriteSheet_57
+    21300116: Paralax2_Day_SpriteSheet_58
+    21300118: Paralax2_Day_SpriteSheet_59
+    21300120: Paralax2_Day_SpriteSheet_60
+    21300122: Paralax2_Day_SpriteSheet_61
+    21300124: Paralax2_Day_SpriteSheet_62
+    21300126: Paralax2_Day_SpriteSheet_63
+    21300128: Paralax2_Day_SpriteSheet_64
+    21300130: Paralax2_Day_SpriteSheet_65
+    21300132: Paralax2_Day_SpriteSheet_66
+    21300134: Paralax2_Day_SpriteSheet_67
+    21300136: Paralax2_Day_SpriteSheet_68
+    21300138: Paralax2_Day_SpriteSheet_69
+    21300140: Paralax2_Day_SpriteSheet_70
+    21300142: Paralax2_Day_SpriteSheet_71
+    21300144: Paralax2_Day_SpriteSheet_72
+    21300146: Paralax2_Day_SpriteSheet_73
+    21300148: Paralax2_Day_SpriteSheet_74
+    21300150: Paralax2_Day_SpriteSheet_75
+    21300152: Paralax2_Day_SpriteSheet_76
+    21300154: Paralax2_Day_SpriteSheet_77
+    21300156: Paralax2_Day_SpriteSheet_78
+    21300158: Paralax2_Day_SpriteSheet_79
+    21300160: Paralax2_Day_SpriteSheet_80
+    21300162: Paralax2_Day_SpriteSheet_81
+    21300164: Paralax2_Day_SpriteSheet_82
+    21300166: Paralax2_Day_SpriteSheet_83
+    21300168: Paralax2_Day_SpriteSheet_84
+    21300170: Paralax2_Day_SpriteSheet_85
+    21300172: Paralax2_Day_SpriteSheet_86
+    21300174: Paralax2_Day_SpriteSheet_87
+    21300176: Paralax2_Day_SpriteSheet_88
+    21300178: Paralax2_Day_SpriteSheet_89
+    21300180: Paralax2_Day_SpriteSheet_90
+    21300182: Paralax2_Day_SpriteSheet_91
+    21300184: Paralax2_Day_SpriteSheet_92
+    21300186: Paralax2_Day_SpriteSheet_93
+    21300188: Paralax2_Day_SpriteSheet_94
+    21300190: Paralax2_Day_SpriteSheet_95
+    21300192: Paralax2_Day_SpriteSheet_96
+    21300194: Paralax2_Day_SpriteSheet_97
+    21300196: Paralax2_Day_SpriteSheet_98
+    21300198: Paralax2_Day_SpriteSheet_99
+    21300200: Paralax2_Day_SpriteSheet_100
+    21300202: Paralax2_Day_SpriteSheet_101
+    21300204: Paralax2_Day_SpriteSheet_102
+    21300206: Paralax2_Day_SpriteSheet_103
+    21300208: Paralax2_Day_SpriteSheet_104
+    21300210: Paralax2_Day_SpriteSheet_105
+    21300212: Paralax2_Day_SpriteSheet_106
+    21300214: Paralax2_Day_SpriteSheet_107
+    21300216: Paralax2_Day_SpriteSheet_108
+    21300218: Paralax2_Day_SpriteSheet_109
+    21300220: Paralax2_Day_SpriteSheet_110
+    21300222: Paralax2_Day_SpriteSheet_111
+    21300224: Paralax2_Day_SpriteSheet_112
+    21300226: Paralax2_Day_SpriteSheet_113
+    21300228: Paralax2_Day_SpriteSheet_114
+    21300230: Paralax2_Day_SpriteSheet_115
+    21300232: Paralax2_Day_SpriteSheet_116
+    21300234: Paralax2_Day_SpriteSheet_117
+    21300236: Paralax2_Day_SpriteSheet_118
+    21300238: Paralax2_Day_SpriteSheet_119
+    21300240: Paralax2_Day_SpriteSheet_120
+    21300242: Paralax2_Day_SpriteSheet_121
+    21300244: Paralax2_Day_SpriteSheet_122
+    21300246: Paralax2_Day_SpriteSheet_123
+    21300248: Paralax2_Day_SpriteSheet_124
+    21300250: Paralax2_Day_SpriteSheet_125
+    21300252: Paralax2_Day_SpriteSheet_126
+    21300254: Paralax2_Day_SpriteSheet_127
+    21300256: Paralax2_Day_SpriteSheet_128
+    21300258: Paralax2_Day_SpriteSheet_129
+    21300260: Paralax2_Day_SpriteSheet_130
+    21300262: Paralax2_Day_SpriteSheet_131
+    21300264: Paralax2_Day_SpriteSheet_132
+    21300266: Paralax2_Day_SpriteSheet_133
+    21300268: Paralax2_Day_SpriteSheet_134
+    21300270: Paralax2_Day_SpriteSheet_135
+    21300272: Paralax2_Day_SpriteSheet_136
+    21300274: Paralax2_Day_SpriteSheet_137
+    21300276: Paralax2_Day_SpriteSheet_138
+    21300278: Paralax2_Day_SpriteSheet_139
+    21300280: Paralax2_Day_SpriteSheet_140
+    21300282: Paralax2_Day_SpriteSheet_141
+    21300284: Paralax2_Day_SpriteSheet_142
+    21300286: Paralax2_Day_SpriteSheet_143
+    21300288: Paralax2_Day_SpriteSheet_144
+    21300290: Paralax2_Day_SpriteSheet_145
+    21300292: Paralax2_Day_SpriteSheet_146
+    21300294: Paralax2_Day_SpriteSheet_147
+    21300296: Paralax2_Day_SpriteSheet_148
+    21300298: Paralax2_Day_SpriteSheet_149
+    21300300: Paralax2_Day_SpriteSheet_150
+    21300302: Paralax2_Day_SpriteSheet_151
+    21300304: Paralax2_Day_SpriteSheet_152
+    21300306: Paralax2_Day_SpriteSheet_153
+    21300308: Paralax2_Day_SpriteSheet_154
+    21300310: Paralax2_Day_SpriteSheet_155
+    21300312: Paralax2_Day_SpriteSheet_156
+    21300314: Paralax2_Day_SpriteSheet_157
+    21300316: Paralax2_Day_SpriteSheet_158
+    21300318: Paralax2_Day_SpriteSheet_159
+    21300320: Paralax2_Day_SpriteSheet_160
+    21300322: Paralax2_Day_SpriteSheet_161
+    21300324: Paralax2_Day_SpriteSheet_162
+    21300326: Paralax2_Day_SpriteSheet_163
+    21300328: Paralax2_Day_SpriteSheet_164
+    21300330: Paralax2_Day_SpriteSheet_165
+    21300332: Paralax2_Day_SpriteSheet_166
+    21300334: Paralax2_Day_SpriteSheet_167
+    21300336: Paralax2_Day_SpriteSheet_168
+    21300338: Paralax2_Day_SpriteSheet_169
+    21300340: Paralax2_Day_SpriteSheet_170
+    21300342: Paralax2_Day_SpriteSheet_171
+    21300344: Paralax2_Day_SpriteSheet_172
+    21300346: Paralax2_Day_SpriteSheet_173
+    21300348: Paralax2_Day_SpriteSheet_174
+    21300350: Paralax2_Day_SpriteSheet_175
+    21300352: Paralax2_Day_SpriteSheet_176
+    21300354: Paralax2_Day_SpriteSheet_177
+    21300356: Paralax2_Day_SpriteSheet_178
+    21300358: Paralax2_Day_SpriteSheet_179
+    21300360: Paralax2_Day_SpriteSheet_180
+    21300362: Paralax2_Day_SpriteSheet_181
+    21300364: Paralax2_Day_SpriteSheet_182
+    21300366: Paralax2_Day_SpriteSheet_183
+    21300368: Paralax2_Day_SpriteSheet_184
+    21300370: Paralax2_Day_SpriteSheet_185
+    21300372: Paralax2_Day_SpriteSheet_186
+    21300374: Paralax2_Day_SpriteSheet_187
+    21300376: Paralax2_Day_SpriteSheet_188
+    21300378: Paralax2_Day_SpriteSheet_189
+    21300380: Paralax2_Day_SpriteSheet_190
+    21300382: Paralax2_Day_SpriteSheet_191
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27375d68481f63c4ebe80f6e8bd59557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 12400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee9df33941932f458ca3eb9f0e0d854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 12400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e18d079fe7b59468e5a9845355fe44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 12400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f95fbe04a27e49bf96ed2a5064e5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 12400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c51de238a5af4445aef8ee4b1cac066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 12400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3166a34931498845b389a10d7380368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e40d1ed39a57842863e4b306d698f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 12000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f21119ce8fce364993f03ed3f6241bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 12000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecd58c808d9e9e448d452c5faa1df3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 12000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f39a17d1c4bd14d80058f97d553ab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 12000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2633a58eccea7d24c88bb75cebb4f53f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 12000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a057a07e7a9418b44a9078171567637d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5cc63539a9aae49b7b9413238a93a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 11600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1311806883bab444bf7f9dcae7607b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 11600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869599902df5f65478941964090428de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 11600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e910a92ff30b5794c9fd53f5105801de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 11600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08be3c041c1460d4d9662890505054db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 11600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b304092ec226e44ad92fd0e746a782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bae2f0eea1620149b1d48ae942b5ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 11200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7fdc59f15583a49befdb734fe0298f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 11200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6aa2c21ca012149b38c214caf0a5c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 11200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b51df1960b387248892adccbcfa0bb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 11200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b766d4c526c436469ef5bc11ddd66d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 11200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab6d17946598cd4faf7054f04655361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de875172dd4626149bf94842a926ddce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 10800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67524cad74f3b29478cdf05b41df21fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 10800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4b96c48e9e32a43b9d1fc2edc113ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 10800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae770325bc20cc943950a3921035a70e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 10800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d32b3aae76618a4a8e1c9d8da8f1f5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 10800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6c1fe388295a84eb7b8bffb9ff6926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1633aac7523a84244b5e9e3809cb0841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 10400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61876b5fc918a7847abe00c6b2e9655e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 10400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445372071c5bcab46a74ccd5f7d428b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 10400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f63fbb8568919746a8ede737554b350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 10400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff13f1fc17bca3e40b05bc2d9783cbb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 10400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc4468ecce05349a3b457fa31c371f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b8ad89b0e06cd4bbc43e3efbb975a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 10000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9802893c27abdb4c844d66486f0d086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 10000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2660de815c0258a4eb3ca9bc904e26a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 10000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fa0ddf33afa5d44b3762ccca6c8226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 10000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27ff05999759e04aaca74df36d985fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 10000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d8553d814ed242ba48c42bca196ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d896f3cf459bc24b83c73396cfc6774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 9600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8e23c335d00ff44bed81a3315c4029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 9600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8e3d8487e6b214198f6aa8fda43946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 9600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827c44c100febb3429b5176c85afa5a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 9600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb0b1465b99eeb408c92d9448bcc6cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 9600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2abf4f9de5aaa408a3da3ccb63ad1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9a967df1ffdf74cbb08e091629803c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 9200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801da3dc71f8d064da328751c8a45427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 9200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d213fd5d5c02ace4cb85f622b4b9f42d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 9200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4b196224712474f8cbca315db74713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 9200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3359ba215c265c40814b9d52a3eb9a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 9200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37c842de5aeb73468b80a6d8b6c0b95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da91cb5e1bd93f428c5f73841bc5db5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 8800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9f79c22266f6445bf08f0ec03e96cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 8800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d955923da98d27e41af06c8354a48f4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 8800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e68bd8a73d1de549ae2238a84046ffb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 8800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334412ccedec77143bfca1df179ac925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 8800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eedf996c7590244ad2c49e95fb1cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a9ef8ee1a493e4cab43e2b6e464669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 8400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b936c44c130041bb68d096e14f7dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 8400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96653e4bb113bc54d8c0b76ea3ac2201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 8400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff8019cd50475f469e6252f4881f763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 8400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151aec8fc0a08e64abf96e3655b02574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 8400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7058b4fe55e9885489d90c0e8c46fa03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1355c026e4ed346b184330f63005eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 8000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dc3af739434874588a91aba46c4a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 8000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d835a744b36f6994a815b97d7e948979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 8000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f86459d4075f294eb9ee6c74a81feee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 8000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc61bdd4f53a7294090a44fc4a4a4570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 8000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215a8c97972902a4aac562c47eb817cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ed2f39d87e44048941e85fe77e20a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 7600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2cf11d77d9a0a48a5ebeba521b1771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 7600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0570ab888e6e2429f28a8af89363fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 7600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d88b85689be2cb46b855531fd128131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 7600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d774936892a6a4c9ed972f1372c046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 7600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cd965b899759141803e6a04c972e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b3a67ecd2e1d54b931c67b64617a27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 7200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828fae7a97d9dfc409716131ee25efbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 7200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54aa296ce71399439e56fd0f1d3213d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 7200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d3b7e4bea3c74a8bb284308486782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 7200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a0255def7cb38468f76b3b4c3b28c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 7200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3afcbb571043f489ed293bb9b61232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e9b92c9465c474db7c000c4e707642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 6800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bad0e9ab1fe41d47bf5a34ce85e2b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e2d1361d4752442ac65e245f3ab938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 6800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b44dc3c4a49504a9bbd622c9ec3e09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445681cd23b67144858df34e55adf71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 6800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276c5e03a001acf4ebef8e11e609d50e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cf5e3e9472f064b8534763b7a06d15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 6400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f6932f7e5bac74b8610ee5b2266612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f8c5b3195bef54aa1b4be0fcab0c59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 6400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b318de295de464ca80441c6672a33a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d7b801f174d56488ca97d3b374698b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 6400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9579831a6660154da1ec1c1760cb130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7c3a6f26f9d1641ad84c0bbdf6b02b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 6000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88397bca801cae84e91123143e8c91d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190887f8fcbb8c041929e5690e00f7e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 6000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e288710d8adc777448b5722f43b3c52d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348d33d4ffed6cc46a45e90df27c864e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 6000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7739563fd4a9a224ea41f51b53325827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a12333168a15d4497878e7251fd25f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 5600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee003b05da648bb4caf24f8c928695cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 5600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dbed8ea4ef57c478db64c7f85e0bbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 5600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ed0c5577e9b74d8e8054416616e6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 5600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8582e61c0beefe44b9e0eaa923cd2b6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 5600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e890dcbe8d6de88419169a0b84c2569b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405fa40a2f6ccc944982b50db414a243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 5200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1cf19c48a5202419ddd127364c5f49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 5200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b8a8c48083d0f48886e57803bd6484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 5200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c04de5915d0fa4facc2ad564eada9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 5200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9344671b91545f0408b54e55b8b56e10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 5200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c2bc049e22243498d700203d4a9140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d80aaf85ae34e54cbb4223aa9aa8814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54399f2de7da9f544bed7fe393b11b38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8379c996a83fedc4c9a78e366cd53ebd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 4800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb904c8ec798fa44db4a60e67218f7c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47c6077d9053034e9f59ac057ccf7bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 4800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379d5eb6b513040469cf3298c312b11e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc24f9e1e0ddfd45a834969dd323a41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c06567cf102c7449b62f97fda5ad92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f37482a7b6ea245a86dbc9dc3fd3f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 4400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ca68b0a2c685b4a83f1f8611478848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9283c777dd750094aa8779058f93103d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 4400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f34a9f5e371c479a4f0809bbde130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450b8459d53b9d547a23b976dae3ddc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d914a778ef70f4abf8d72bfad0f14a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f2838f2107c2a48a693d073f595dd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 4000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dba9448396eec47981fa2fd96bcb69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730636aa338994499bc3bce8d73f634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 4000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e58fa26560ab543a43f7ad17792672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfa7ba82115fb241a3eda466eeaf1d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ff15cd76fb6e74bad4143199509683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705cf14891abf874fa47cb2c090db2eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 3600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb58f0de8631b94191e9fd8a37b2921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752c4d8b4b095f742b9a45e937bde0ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 3600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8bea619ab5674428fe847b12b5b4d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8074ee2f3c537b24fa0d3780eff04cb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ba05edcd31ed546bb076a3444559f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7f370062862f34a8062dc84a760ffe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 3200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe712ea0209ab484b9422ddf9e656ff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422012d558b46f146a67a77d424170fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 3200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee1b04943294444fb410710ea11d8ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036290a3eee8e3a4c9dd0baf87e9d5d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f076737fcd79446b47eae2a08da636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57c5b0a49bdfe14091ab40954ca8103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729fe3c3886715944ab4d0edafc1c3de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc329794a3f40a4298947483dc7fd97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb00c6e96f93d94dbdce5c90a267660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a11449a211ac8742bc82986f4656959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a9669137e67124889f03835791c1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bb708d01acf1d47ac5a41d839f9958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d667ab0f1c7fce42a61d26b6eeb53dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0addeb17f4d300b47ba44d345a32e64f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6754f2abdca513f45b8b1ca43150f5df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e2ccb52a5e7da4cbd682a764480e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb10dd84a5d6fcd4ba70c14675674f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fda540a3b67144c94d284e53b72fb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215ec8e6b6200784286966734983e9b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f93b0d91139ed4dbe3a6b04dddebac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2000
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2186f9d2d9a474296a5cf7d4896fda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9ca3a0f81ea3f42a95d93c9bed2220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df5e08e692843e4e847896ca48c13b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f0790b7c6e94e48b83fe9b121ceae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c32f98b4a049ad4eb06daaae0056e81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e69dfe65f741e40b7dca8d8c33d509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1600
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d097c37108715d4f82a72c9155ba6f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018bee6f79ecaa64cab7f15d5e0e9874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc20e991d42355b4283a888ddfd3e8f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34701d7a93f83a84398fe6e1dd74458a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6995dd8e893cb374e9bbe8bf753979d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033b3dae2fc3dd146bf2b1c0b5fbfd10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1200
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15025a4febca2a5478ad3bfb7996a61d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd325a6d2f25134ca672d8f9ec1e5f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a0dc09e061a4e439988b873dc0dda1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8058539cf254444d92a0b5770da55fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7db40cb4ca765448a3332838091083d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5576bb914e6cdd418fccd5b715b9a9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 800
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5257069fda141cb4dab5bdca8d0de497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595fb6125dcdb249880bab749e51840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9389cdf8035d9d43b27ce2d7bd11226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdbae96d52409a43bf9ff9fa15248ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70be00fd4fc02d45a38c784e821c2de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47481a6daf3760f4aa34b9bf64d87e99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 400
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc169e5d448fe94eac3bc02af996f69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa236aa56a051de499cf7828010a1bc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232b6f4cbeaf694384211b4492c2048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0dfd515e844ed4a8eab0ef52a08cae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f96079d51fc0bf4a90df4ff122a0e04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c4f016f61241347b7c7421a77c9efe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralax2_Day_SpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 0
+        width: 550
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7962322b5d016a543a3b737ddb47af9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cd56665d2306b8d4e93d5418313bafc5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

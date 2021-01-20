@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: f0bd3965927fa3e4da4835692939546f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Boy_SlowWalk_ANimation_Latest_SLow:Group3854
+    100002: Boy_SlowWalk_ANimation_Latest_SLow:Group3855
+    100004: Boy_SlowWalk_ANimation_Latest_SLow:Group39306
+    100006: Boy_SlowWalk_ANimation_Latest_SLow:Group44697
+    100008: Boy_SlowWalk_ANimation_Latest_SLow:Group52045
+    100010: Boy_SlowWalk_ANimation_Latest_SLow:Group52086
+    100012: Boy_SlowWalk_ANimation_Latest_SLow:Group54697
+    100014: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:Head
+    100016: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:HeadTop_End
+    100018: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:Hips
+    100020: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftArm
+    100022: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftFoot
+    100024: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftForeArm
+    100026: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHand
+    100028: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandIndex1
+    100030: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandIndex2
+    100032: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandIndex3
+    100034: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandIndex4
+    100036: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandMiddle1
+    100038: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandMiddle2
+    100040: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandMiddle3
+    100042: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandMiddle4
+    100044: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandPinky1
+    100046: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandPinky2
+    100048: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandPinky3
+    100050: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandPinky4
+    100052: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandRing1
+    100054: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandRing2
+    100056: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandRing3
+    100058: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandRing4
+    100060: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandThumb1
+    100062: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandThumb2
+    100064: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandThumb3
+    100066: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandThumb4
+    100068: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftLeg
+    100070: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftShoulder
+    100072: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftToe_End
+    100074: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftToeBase
+    100076: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftUpLeg
+    100078: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:Neck
+    100080: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightArm
+    100082: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightFoot
+    100084: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightForeArm
+    100086: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHand
+    100088: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandIndex1
+    100090: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandIndex2
+    100092: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandIndex3
+    100094: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandIndex4
+    100096: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandMiddle1
+    100098: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandMiddle2
+    100100: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandMiddle3
+    100102: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandMiddle4
+    100104: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandPinky1
+    100106: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandPinky2
+    100108: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandPinky3
+    100110: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandPinky4
+    100112: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandRing1
+    100114: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandRing2
+    100116: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandRing3
+    100118: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandRing4
+    100120: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandThumb1
+    100122: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandThumb2
+    100124: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandThumb3
+    100126: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandThumb4
+    100128: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightLeg
+    100130: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightShoulder
+    100132: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightToe_End
+    100134: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightToeBase
+    100136: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightUpLeg
+    100138: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:Spine
+    100140: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:Spine1
+    100142: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:Spine2
+    100144: Boy_SlowWalk_ANimation_Latest_SLow:pCylinder1
+    100146: Boy_SlowWalk_ANimation_Latest_SLow:pSphere1
+    100148: Boy_SlowWalk_ANimation_Latest_SLow:transform1
+    100150: Boy_SlowWalk_ANimation_Latest_SLow:transform2
+    100152: //RootNode
+    400000: Boy_SlowWalk_ANimation_Latest_SLow:Group3854
+    400002: Boy_SlowWalk_ANimation_Latest_SLow:Group3855
+    400004: Boy_SlowWalk_ANimation_Latest_SLow:Group39306
+    400006: Boy_SlowWalk_ANimation_Latest_SLow:Group44697
+    400008: Boy_SlowWalk_ANimation_Latest_SLow:Group52045
+    400010: Boy_SlowWalk_ANimation_Latest_SLow:Group52086
+    400012: Boy_SlowWalk_ANimation_Latest_SLow:Group54697
+    400014: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:Head
+    400016: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:HeadTop_End
+    400018: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:Hips
+    400020: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftArm
+    400022: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftFoot
+    400024: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftForeArm
+    400026: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHand
+    400028: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandIndex1
+    400030: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandIndex2
+    400032: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandIndex3
+    400034: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandIndex4
+    400036: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandMiddle1
+    400038: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandMiddle2
+    400040: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandMiddle3
+    400042: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandMiddle4
+    400044: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandPinky1
+    400046: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandPinky2
+    400048: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandPinky3
+    400050: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandPinky4
+    400052: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandRing1
+    400054: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandRing2
+    400056: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandRing3
+    400058: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandRing4
+    400060: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandThumb1
+    400062: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandThumb2
+    400064: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandThumb3
+    400066: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftHandThumb4
+    400068: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftLeg
+    400070: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftShoulder
+    400072: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftToe_End
+    400074: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftToeBase
+    400076: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:LeftUpLeg
+    400078: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:Neck
+    400080: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightArm
+    400082: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightFoot
+    400084: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightForeArm
+    400086: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHand
+    400088: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandIndex1
+    400090: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandIndex2
+    400092: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandIndex3
+    400094: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandIndex4
+    400096: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandMiddle1
+    400098: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandMiddle2
+    400100: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandMiddle3
+    400102: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandMiddle4
+    400104: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandPinky1
+    400106: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandPinky2
+    400108: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandPinky3
+    400110: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandPinky4
+    400112: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandRing1
+    400114: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandRing2
+    400116: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandRing3
+    400118: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandRing4
+    400120: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandThumb1
+    400122: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandThumb2
+    400124: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandThumb3
+    400126: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightHandThumb4
+    400128: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightLeg
+    400130: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightShoulder
+    400132: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightToe_End
+    400134: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightToeBase
+    400136: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:RightUpLeg
+    400138: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:Spine
+    400140: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:Spine1
+    400142: Boy_SlowWalk_ANimation_Latest_SLow:mixamorig:Spine2
+    400144: Boy_SlowWalk_ANimation_Latest_SLow:pCylinder1
+    400146: Boy_SlowWalk_ANimation_Latest_SLow:pSphere1
+    400148: Boy_SlowWalk_ANimation_Latest_SLow:transform1
+    400150: Boy_SlowWalk_ANimation_Latest_SLow:transform2
+    400152: //RootNode
+    2100000: lambert1
+    4300000: Boy_SlowWalk_ANimation_Latest_SLow:Group3854
+    4300002: Boy_SlowWalk_ANimation_Latest_SLow:Group3855
+    4300004: Boy_SlowWalk_ANimation_Latest_SLow:Group52045
+    4300006: Boy_SlowWalk_ANimation_Latest_SLow:Group44697
+    4300008: Boy_SlowWalk_ANimation_Latest_SLow:Group54697
+    4300010: Boy_SlowWalk_ANimation_Latest_SLow:Group52086
+    4300012: Boy_SlowWalk_ANimation_Latest_SLow:Group39306
+    7400000: Child_Get_Up
+    7400002: Child_Sitting
+    7400004: Child_Default
+    7400006: Child_Candy Give
+    7400008: Child_Sit_Down
+    7400010: Child_Walking
+    7400012: Child_idle
+    7400014: Standing
+    7400016: sitting2
+    9500000: //RootNode
+    13700000: Boy_SlowWalk_ANimation_Latest_SLow:Group3854
+    13700002: Boy_SlowWalk_ANimation_Latest_SLow:Group3855
+    13700004: Boy_SlowWalk_ANimation_Latest_SLow:Group39306
+    13700006: Boy_SlowWalk_ANimation_Latest_SLow:Group44697
+    13700008: Boy_SlowWalk_ANimation_Latest_SLow:Group52045
+    13700010: Boy_SlowWalk_ANimation_Latest_SLow:Group52086
+    13700012: Boy_SlowWalk_ANimation_Latest_SLow:Group54697
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 0113e78bcd8e0d347babe39fdbf92ec1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Child_Get_Up
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Child_Sitting
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Child_Default
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 380
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Child_Candy Give
+      takeName: Take 001
+      firstFrame: 185
+      lastFrame: 269
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Child_Sit_Down
+      takeName: Take 001
+      firstFrame: 269
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Child_Walking
+      takeName: Take 001
+      firstFrame: 112
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Child_idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Standing
+      takeName: Take 001
+      firstFrame: 181
+      lastFrame: 182
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sitting2
+      takeName: Take 001
+      firstFrame: 17
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
